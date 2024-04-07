@@ -1,0 +1,6 @@
+C:\Users\talra\OneDrive\Desktop\C#\ex5\B23 Ex05 YosefMurcian 307903070 TalRabinovich 209399849\ProjectXmixDrix\bin\Debug\ProjectXmixDrix.exe
+C:\Users\talra\OneDrive\Desktop\C#\ex5\B23 Ex05 YosefMurcian 307903070 TalRabinovich 209399849\ProjectXmixDrix\bin\Debug\ProjectXmixDrix.pdb
+C:\Users\talra\OneDrive\Desktop\C#\ex5\B23 Ex05 YosefMurcian 307903070 TalRabinovich 209399849\ProjectXmixDrix\obj\Debug\ProjectXmixDrix.csproj.AssemblyReference.cache
+C:\Users\talra\OneDrive\Desktop\C#\ex5\B23 Ex05 YosefMurcian 307903070 TalRabinovich 209399849\ProjectXmixDrix\obj\Debug\ProjectXmixDrix.csproj.CoreCompileInputs.cache
+C:\Users\talra\OneDrive\Desktop\C#\ex5\B23 Ex05 YosefMurcian 307903070 TalRabinovich 209399849\ProjectXmixDrix\obj\Debug\ProjectXmixDrix.exe
+C:\Users\talra\OneDrive\Desktop\C#\ex5\B23 Ex05 YosefMurcian 307903070 TalRabinovich 209399849\ProjectXmixDrix\obj\Debug\ProjectXmixDrix.pdb
