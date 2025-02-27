@@ -1,5 +1,5 @@
 # Project Tic Tac Toe
-Project Tic Tac Toe is a Tic-Tac-Toe variant implemented in C# using Windows Forms. The game allows two players to compete against each other on a configurable board size. The UI provides an interactive way to play the game with a simple and user-friendly interface.
+Project Tic Tac Toe is an Object-Oriented Tic-Tac-Toe variant implemented in C# using Windows Forms. The game allows two players to compete against each other on a configurable board size. The UI provides an interactive way to play the game with a simple and user-friendly interface.
 
 ## Features
 
